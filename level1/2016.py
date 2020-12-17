@@ -1,6 +1,6 @@
 """
     https://programmers.co.kr/learn/courses/30/lessons/12901
-    요일 구하기
+    datetime 모듈을 활용하여 요일 구하기
 """
 import datetime
 
