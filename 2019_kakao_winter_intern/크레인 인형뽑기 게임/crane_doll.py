@@ -1,5 +1,3 @@
-# https://programmers.co.kr/learn/courses/30/lessons/64061#
-
 def solution(board, moves):
     board2 = [[0 for col in range(len(board[0]))] for row in range(len(board))]
     answer = 0
