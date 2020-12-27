@@ -1,16 +1,3 @@
-"""
-    https://programmers.co.kr/learn/courses/30/lessons/12915
-
-    문자열 내 마음대로 정렬하기
-    예시
-    strings	            n	return
-    [sun, bed, car]	    1	[car, bed, sun]
-    [abce, abcd, cdx]	2	[abcd, abce, cdx]
-
-    쉽게 정렬하는 법
-    sorted(strings, key=lambda string: string[n:n+1])
-"""
-
 def solution(strings, n):
     answer = []
     strings.sort()

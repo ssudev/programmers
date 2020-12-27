@@ -1,8 +1,3 @@
-"""
-    n : 학생수
-    lost : 잃어버린 학생 번호(배열)
-    reserve : 여벌의 체육복을 가지고 있는 학생 번호(배열)
-"""
 def solution(n, lost, reserve):
     answer = 0
     clothes = [1 for i in range(n+2)]

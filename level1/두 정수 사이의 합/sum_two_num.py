@@ -1,13 +1,3 @@
-"""
-
-    https://programmers.co.kr/learn/courses/30/lessons/12912
-    
-    - 예시
-    a : 3
-    b : 5
-    return : 12
-"""
-
 def solution(a, b):
     answer = 0
     
