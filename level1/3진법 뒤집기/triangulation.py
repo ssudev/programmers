@@ -1,17 +1,10 @@
 """
-https://programmers.co.kr/learn/courses/30/lessons/68935
+    https://programmers.co.kr/learn/courses/30/lessons/68935
 
-예시 :
-    45 / 3 = 15 ... 0
-    15 / 3 = 5 ... 0
-    5 / 3 = 1 ... 2
-
-    125 / 3 = 41 ... 2
-    41 / 3 = 13 ... 2
-    13 / 3 = 4 ... 1
-    4 / 3 = 1 ... 1
-
-    3 / 3 = 1 ... 0
+    예시
+    n	result
+    45	7
+    125	229
 """
 
 def solution(n):
